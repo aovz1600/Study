@@ -1,12 +1,12 @@
-Persistence : 영속성
-ORM : Object-Relational Mapping : 객체와 DB의 테이블이 매핑을 이루는 것
-JPA : Java Persistence API : 자바 ORM기술에 대한 API 표준 명세
+- Persistence : 영속성
+- ORM : Object-Relational Mapping : 객체와 DB의 테이블이 매핑을 이루는 것
+- JPA : Java Persistence API : 자바 ORM기술에 대한 API 표준 명세
   ( 중요한 핵심기술이지만 사용이 한정적 ) 
-Hibernate : JPA를 사용하기 위해 JPA를 구현한 ORM 프레임워크중 하나.( ORM프레임워크 중 가장 성숙한 프레임워크 )
-JDK : Java Development Kit : 자바 개발키트
-JVM : Java Virtual Machine : 자바 가상머신
-JRE : Java Runtime Environment : 자바 런타임 환경
-OOP : Object-Oriented Programming : 객체지향 프로그래밍
+- Hibernate : JPA를 사용하기 위해 JPA를 구현한 ORM 프레임워크중 하나.( ORM프레임워크 중 가장 성숙한 프레임워크 )
+- JDK : Java Development Kit : 자바 개발키트
+- JVM : Java Virtual Machine : 자바 가상머신
+- JRE : Java Runtime Environment : 자바 런타임 환경
+- OOP : Object-Oriented Programming : 객체지향 프로그래밍
 JDBC : Java Data Base Connection : JAVA언어를 통해 DB에 접근할 수 있는 프로그래밍
 API : Application Programming Interface : 미리 작성된 코드, 비슷한 주제를 가진 패키지들로 구성
 SDK : Standard Development Kit : 모든 개발언어의 소프트웨어 개발 킷
